@@ -1,0 +1,7 @@
+{
+  "name": "lazeez-restaurant",
+  "compatibility_date": "2023-10-22",
+  "assets": {
+    "directory": "./lazeez-restaurant/build"
+  }
+}
