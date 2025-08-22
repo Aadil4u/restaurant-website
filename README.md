@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Lazeez Restaurant Veraval
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive website for Lazeez Restaurant located in Veraval, Gujarat, India. Built with React and Tailwind CSS, inspired by the elegant design aesthetic of high-end restaurant websites.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Responsive Design**: Fully responsive across all devices (mobile, tablet, desktop)
+- **Modern UI**: Clean, elegant design with smooth animations and transitions
+- **Single Page Application**: All sections accessible via smooth scrolling navigation
+- **Sticky Navigation**: Transparent navbar that becomes solid on scroll
+- **Interactive Components**: Hover effects, smooth transitions, and engaging user experience
 
-### `npm start`
+## Sections
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Hero Section**: Full-screen background with restaurant name and call-to-action
+2. **About Section**: Restaurant story and mission
+3. **Menu Section**: Organized categories with items, descriptions, and prices
+4. **Reviews Section**: Customer testimonials with star ratings
+5. **Contact Section**: Address, hours, phone, and embedded Google Maps
+6. **Footer**: Social media links and copyright information
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Menu Categories
 
-### `npm test`
+- **Street Food Delights**: Samosa, Gol Gappe, Chaat Papdi, Chole Bhature
+- **Kebabs & Grills**: Chicken Tikka Kebab, Mutton Seekh Kebab
+- **Main Courses**: Butter Chicken, Paneer Tikka Masala
+- **Biryani Specials**: Chicken Dum Biryani, Vegetable Biryani
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- **React**: Frontend framework
+- **Tailwind CSS**: Utility-first CSS framework
+- **Google Fonts**: Playfair Display and Inter fonts
+- **Unsplash**: High-quality food photography
+- **Google Maps**: Embedded location map
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Color Palette
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Warm Red**: #DC2626 - Primary brand color
+- **Deep Red**: #991B1B - Darker accent
+- **Gold**: #F59E0B - Highlighting and hover states
+- **Charcoal**: #374151 - Text and dark sections
+- **Cream**: #FEF3C7 - Light background sections
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+1. Install dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Start the development server:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Learn More
+## Restaurant Information
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Name**: Lazeez Restaurant Veraval
+- **Location**: Veraval Talala Road, Opposite Kismat Provision, Veraval, Gujarat
+- **Hours**: Open Daily: 6:30 AM – 12:00 AM
+- **Phone**: +91 98765 43210
+- **Specialty**: Authentic Indian Cuisine
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Design Inspiration
 
-### Code Splitting
+The website design is inspired by the Girl & the Goat Los Angeles website, featuring:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Clean, minimalist layout
+- Prominent hero sections
+- Well-organized content blocks
+- Elegant typography
+- Warm, inviting color scheme suitable for an Indian restaurant
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2024 Lazeez Restaurant Veraval. All Rights Reserved.
